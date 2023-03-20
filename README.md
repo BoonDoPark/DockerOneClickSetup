@@ -1,0 +1,3 @@
+- To install Docker in BARE METAL,
+- Clone this repository.
+- Use `sh docker-install.sh`.
